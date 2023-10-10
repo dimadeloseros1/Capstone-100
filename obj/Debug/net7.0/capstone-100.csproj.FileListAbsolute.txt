@@ -1,0 +1,14 @@
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\obj\Debug\net7.0\capstone-100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\obj\Debug\net7.0\capstone-100.AssemblyInfoInputs.cache
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\obj\Debug\net7.0\capstone-100.AssemblyInfo.cs
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\obj\Debug\net7.0\capstone-100.csproj.CoreCompileInputs.cache
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\bin\Debug\net7.0\capstone-100.exe
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\bin\Debug\net7.0\capstone-100.deps.json
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\bin\Debug\net7.0\capstone-100.runtimeconfig.json
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\bin\Debug\net7.0\capstone-100.dll
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\bin\Debug\net7.0\capstone-100.pdb
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\obj\Debug\net7.0\capstone-100.dll
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\obj\Debug\net7.0\refint\capstone-100.dll
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\obj\Debug\net7.0\capstone-100.pdb
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\obj\Debug\net7.0\capstone-100.genruntimeconfig.cache
+C:\Users\dimad\OneDrive\Desktop\C#\skillfoundryio\capstone-100\obj\Debug\net7.0\ref\capstone-100.dll
